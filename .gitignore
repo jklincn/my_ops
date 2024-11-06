@@ -1,0 +1,9 @@
+# clangd
+.cache/
+
+# build 
+build/
+*.egg-info/
+
+# pycache
+**/__pycache__
